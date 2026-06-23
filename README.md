@@ -25,7 +25,7 @@ pip install torch==2.7.0 torchvision torchaudio --index-url https://download.pyt
 ### 3. Clone this repository
 
 ```bash
-git clone https://github.com/Guyanchuan/POT-SAM3.git
+git clone https://github.com/AI4MyBUPT/POT-SAM3.git
 cd potsam3
 ```
 
